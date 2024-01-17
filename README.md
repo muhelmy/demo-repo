@@ -1,2 +1,3 @@
-# demo-repo
-Demo for Github intro crash course
+# Demo
+Demo for Github intro crash course.
+Some description.
